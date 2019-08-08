@@ -6,3 +6,5 @@ matrix:
   include:
   - rvm: 2.5.5
   - rvm: 2.6.2
+
+cache: bundler
